@@ -34,15 +34,6 @@ body {
     background-image: url(../img/casaVerde1.jpeg);
 }
 
-.navShadow {
-    color: #fff;
-    text-shadow: 2px 4px 6px #000000;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: #fff;
-}
-
 .slogan {
     font-family: 'Kaushan Script', cursive;
     color: #cb0909;
